@@ -1,2 +1,8 @@
-# Projeto-Bot-Discord
- Projeto de uma lading page para um bot do Discord.
+# Landing Page Bot-Discord
+
+Landing page de um bot para discord
+
+tecnologias:
+
+* HTML
+* CSS
